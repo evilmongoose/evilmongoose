@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @evilmongoose
+- 👀 I’m interested in all things python, javascript, and bash.
+- 🌱 I’m currently learning automation frameworks to test at various layers.
+- 💞️ I’m looking to collaborate on, frankly, anything that sounds cool.
+- 📫 How to reach me cjbriggs88@gmail.com
